@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: vfl
+Specification-Vendor: AlaharranHonor, Gabe, Quarris
+Specification-Version: 1
+Implementation-Title: fanyel-flashlights
+Implementation-Version: 1.0.1
+Implementation-Vendor: AlaharranHonor, Gabe, Quarris
+Implementation-Timestamp: 2026-02-17T20:17:42+0000
+

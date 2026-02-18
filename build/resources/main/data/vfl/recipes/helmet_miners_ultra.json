@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "vfl",
+  "key": {
+    "F": {
+      "item": "vfl:flashlight_ultra"
+    },
+    "H": {
+      "item": "minecraft:iron_helmet"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "pattern": [
+    " F ",
+    "SHS",
+    " S "
+  ],
+  "result": {
+    "item": "vfl:helmet_miners_ultra"
+  },
+  "show_notification": true
+}
