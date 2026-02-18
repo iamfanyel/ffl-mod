@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: flashlights
+MixinConfigs: vfl.mixins.json
+Implementation-Version: 1.0.1
+Specification-Vendor: AlaharranHonor, Gabe, Quarris
+Specification-Title: vfl
+Implementation-Timestamp: 2023-10-31T16:14:08+0000
+Specification-Version: 1
+Implementation-Vendor: AlaharranHonor, Gabe, Quarris
+

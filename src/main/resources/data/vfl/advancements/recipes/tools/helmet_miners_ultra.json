@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_flashlight_ultra": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vfl:flashlight_ultra"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "vfl:helmet_miners_ultra"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_flashlight_ultra",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vfl:helmet_miners_ultra"
+    ]
+  },
+  "sends_telemetry_event": false
+}

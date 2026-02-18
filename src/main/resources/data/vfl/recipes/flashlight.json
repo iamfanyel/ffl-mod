@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "vfl",
+  "key": {
+    "G": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "G",
+    "S",
+    "R"
+  ],
+  "result": {
+    "item": "vfl:flashlight"
+  },
+  "show_notification": true
+}

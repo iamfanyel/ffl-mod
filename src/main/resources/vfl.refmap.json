@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/alaharranhonor/vfl/mixins/LevelRendererMixin": {
+      "resize": "Lnet/minecraft/client/renderer/LevelRenderer;m_109487_(II)V"
+    },
+    "com/alaharranhonor/vfl/mixins/PostChainAccessor": {
+      "passes": "f_110009_:Ljava/util/List;"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/alaharranhonor/vfl/mixins/LevelRendererMixin": {
+        "resize": "Lnet/minecraft/client/renderer/LevelRenderer;m_109487_(II)V"
+      },
+      "com/alaharranhonor/vfl/mixins/PostChainAccessor": {
+        "passes": "f_110009_:Ljava/util/List;"
+      }
+    }
+  }
+}
